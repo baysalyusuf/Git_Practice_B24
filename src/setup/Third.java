@@ -6,4 +6,6 @@ public class Third {
 
     // added
 
+
+    // again new lines
 }
